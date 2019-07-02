@@ -1,6 +1,6 @@
-var json_summaryofnegativecomments_1 = {
+var json_summaryofnegativecomments_2 = {
 "type": "FeatureCollection",
-"name": "summaryofnegativecomments_1",
+"name": "summaryofnegativecomments_2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "respondent ID": 30.0, "Traffic condition": "Empty road", "Lighting condition": "Car and street lights", "Weather": "Clear", "Reason": "Car drifted to curb or road median", "Further description": "this was about a year ago that this happened a few times, in later fw versions it does not anymore steer towards the divider" }, "geometry": { "type": "Point", "coordinates": [ 24.816431, 60.220733 ] } },
